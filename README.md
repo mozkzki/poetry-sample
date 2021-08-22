@@ -100,3 +100,17 @@ Poetry自体の更新
 [tool.poetry.scripts]
 start = "project01:main"
 ```
+
+仮想環境に入る
+
+```sh
+> poetry shell
+```
+
+仮想環境から出る
+
+```sh
+> exit
+もしくは
+> deactivate
+```

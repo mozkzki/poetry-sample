@@ -13,7 +13,7 @@ Poetry自体の導入 (Mac, Linux)
 > curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python
 ```
 
-Poetry自体の導入 (Windows, Powershell)
+Poetry自体の導入 (Windows) ※Powershell
 
 ```Powershll
 > (Invoke-WebRequest -Uri https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py -UseBasicParsing).Content | python
